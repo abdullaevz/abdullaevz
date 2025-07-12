@@ -12,9 +12,6 @@
 
 <p align="left">I am a backend developer. 💻</p>
 
-### 📫 Contact Me
-
-📧 [natiq@example.com](mailto:natiq@example.com)
 
 ###
 
@@ -51,3 +48,7 @@
 </div>
 
 ###
+
+### 📫 Contact Me
+
+📧 [natiq@example.com](mailto:natiq@example.com)
