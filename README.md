@@ -51,4 +51,4 @@
 
 ### 📫 Contact Me
 
-📧 [natiq@example.com](mailto:natiq@example.com)
+📧 [abdullayev.dc@gmail.com](mailto:abdullayev.dc@gmail.com)
